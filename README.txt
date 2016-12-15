@@ -36,6 +36,6 @@ is the reason for this project.
 
 NEXT STEPS
 ----------
-- Add bidirectional serial port
-- Make more secure and/or protect against hijacking
-- Is binding even needed?
+- Test bidirectional serial port
+- Make more secure, channel hopping?
+
