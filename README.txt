@@ -36,6 +36,5 @@ is the reason for this project.
 
 NEXT STEPS
 ----------
-- Test bidirectional serial port
 - Make more secure, channel hopping?
 
