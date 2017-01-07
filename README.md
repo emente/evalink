@@ -3,13 +3,15 @@ WHAT IS IT
 This is an inexpensive wireless receiver/transmitter combination for 
 quadcopters (or any rc toy) using esp8266 modules.
 
-........................you          your quadcopter ............
+<pre><code>........................you          your quadcopter ............
 
 +------+            +-----+          +-----+              +-----+
 !      !----PPM---->!     !          !     !-----PPM----->!     !
 !Remote!            ! ESP !<--wifi-->! ESP !              ! FC  !
 !      !<--Serial---!     !          !     !<---Serial----!     !  
-+------+            +-----+          +-----+              +-----+
++------+            +-----+          +-----+              +-----+</code></pre>
+
+![evalink example](https://raw.githubusercontent.com/emente/evalink/master/evalink.jpg)
 
 PPM input is transported using raw packets (no wifi peering or binding 
 needed). PPM input/output is supported by most remotes and flight 
