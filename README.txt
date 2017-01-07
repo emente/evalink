@@ -38,4 +38,4 @@ is the reason for this project.
 NEXT STEPS
 ----------
 - Make more secure, channel hopping?
-
+- showcase uses on codeninja.de?
